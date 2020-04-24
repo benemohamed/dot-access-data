@@ -1,0 +1,2 @@
+module Dot::Access
+end
